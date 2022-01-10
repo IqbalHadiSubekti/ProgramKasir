@@ -1,3 +1,7 @@
+Import os
+
+os.system("clear")
+
 def variable(): # function dan variabel
     global nama_menu
     global harga_menu
